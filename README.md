@@ -7,7 +7,7 @@
 
 - I’m looking to collaborate on **web development projects**
 
--Ask me about **Machine Learning,Deep Learning,Natural Language Processing,Computer Vision**
+ - Ask me about **Machine Learning,Deep Learning,Natural Language Processing,Computer Vision**
 
 - How to reach me **thanuishkumar@gmail.com**
 
