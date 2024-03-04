@@ -1,19 +1,15 @@
-<h1 align="center">Hi 👋, I'm THANUISH KUMAR S</h1>
+<h1 align="center">I'm THANUISH</h1>
 <h3 align="center">An enthusiast with a passion for Python programming</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently pursuing **FINAl YEAR - computer science and engineering AT SRM valliammai Engineering College**
+- I’m currently pursuing **FINAl YEAR - computer science and engineering AT SRM valliammai Engineering College**
 
-- 🌱 I’m currently learning **Data analysts**
+- I’m looking to collaborate on **web development projects**
 
-- 👯 I’m looking to collaborate on **web development projects**
+-Ask me about **Machine Learning,Deep Learning,Natural Language Processing,Computer Vision**
 
-- 💬 Ask me about **Machine Learning,Deep Learning,Natural Language Processing,Computer Vision**
-
-- 📫 How to reach me **thanuishkumar@gmail.com**
-
-- ⚡ Fun fact **I am funny**
+- How to reach me **thanuishkumar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
