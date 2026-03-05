@@ -3,14 +3,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
--I’m currently pursuing **masters - computer science  AT University of Stuttgart*
--Bachelors - computer science and engineering AT SRM valliammai Engineering College**
+-I’m currently pursuing **masters - computer science at University of Stuttgart**
+-Bachelors omputer science and engineering AT SRM valliammai Engineering College**
 
-- I’m looking to collaborate on **web development projects**
+- I’m looking to collaborate on **Web Development projects, Machine Learning Projects**
 
  - Ask me about **Machine Learning,Deep Learning,Natural Language Processing,Computer Vision**
 
-- How to reach me **thanuishkumar@gmail.com**
+- How to reach me **thanuishkumar02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
