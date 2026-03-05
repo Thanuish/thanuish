@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
--I’m currently pursuing **masters - computer science at University of Stuttgart**
+-I’m currently pursuing **Masters in Computer Science (Autonomous Systems) at University of Stuttgart**
 -
 Bachelors omputer science and engineering AT SRM valliammai Engineering College**
 
